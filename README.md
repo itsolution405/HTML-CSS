@@ -1,5 +1,5 @@
 # HTML
-![image](https://github.com/itsolution405/HTML/assets/141856824/fd732043-8d85-449f-b00e-99935ca78016)
+![image](https://github.com/itsolution405/HTML/assets/141856824/88f57dcb-7458-41c4-ae3b-e7d70dbcec63)
 
 # Pengertian HTML
 HTML atau Hypertext Markup Language adalah bahasa markup yang digunakan untuk membuat struktur halaman website agar dapat ditampilkan pada web browser.
