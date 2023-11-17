@@ -30,10 +30,10 @@ Seiring berjalannya waktu, W3C dan diterbitkan sebagai rekomendasi pada Mei 1998
 # Kemampuan baru seperti
 
 Mutlak
-Relatif
-Tetap
-Penentuan Posisi
-Indeks-z
-Konsep Jenis Media
-Teks Dua Arah
-Properti Font Baru seperti Shadows
+Relatif,
+Tetap,
+Penentuan Posisi,
+Indeks-z,
+Konsep Jenis Media,
+Teks Dua Arah,
+Properti Font Baru seperti Shadows.
