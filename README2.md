@@ -12,3 +12,4 @@ Cascading Style Sheets atau CSS ternyata juga bisa berguna untuk meletakkan styl
 Pada saat menggunakan CSS, maka tidak perlu repot-repot menulis font, size atau pun color pada setiap paragrafnya, ataupun pada setiap dokumen sekalipun. Kamu bisa membuat sebuah style sheet, dan bisa menyimpan kode tersebut sekali saja dan juga dapat kembali menggunakannya apabila suatu saat diperlukan.
 
 # Sejarah CSS
+Bagi Anda para developer dan programmer pasti Anda tidak asing dengan yang namanya CSS atau Cascading Style Sheets. 
