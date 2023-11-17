@@ -19,4 +19,4 @@ Keunggulan css adalah konsistensi yang lebih besar dalam desain.
 Kelebihan CSS tersebut mampu membuat para developer untuk menggunakan CSS.
 
 # Sejarah CSS (Cascading Style Sheets) dan Perkembangannya
-Tahun 1994 Hakon Wium Lie bekerja di CERN yang merupakan sebuah perusahaan
+Tahun 1994 Hakon Wium Lie bekerja di CERN yang merupakan sebuah perusahaan, Web mulai digunakan sebagai platform untuk penerbitan elektronik. 
