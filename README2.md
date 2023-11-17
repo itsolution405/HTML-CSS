@@ -5,3 +5,8 @@
 CSS pertama bermula sejak munculnya SGML pada tahun 1970-an.
 CSS adalah Cascading Style Sheet di mana kita bisa memberikan File seperti warna, ukuran, posisi ke dalam halaman-halaman element HTML.
 Menurut W3OR CSS adalah mekanisme sederhana yang mengatur gaya / style (Contoh: warna, ukuran, posisi, dll) pada halaman Web
+Saat itu, CSS mengalami perkembangan yang cukup pesat.
+CSS menjadi salah satu bahasa pemrograman web yang mengatur komponen dalam suatu web supaya web lebih terstruktur dan lebih seragam.
+
+
+Cascading Style Sheets atau CSS ternyata juga bisa berguna untuk meletakkan styles yang berbeda pada lapisan yang berbeda pula. 
