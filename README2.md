@@ -25,3 +25,15 @@ Style sheet di browser bukanlah ide yang sama sekali baru.
 Pemisahan struktur dokumen tujuan HTML sejak awal tahun 1990. Tim Berners-Lee menulis browser/editor NeXT-nya sedemikian rupa sehingga Tim Berners-Lee.
 Namun, idak mempublikasikan sintaks untuk lembar gaya, mengingat itu
 Secara resmi, CSS diusulkan pada tahun 1994 sebagai penataan web yang di usulkan saat itu.
+Seiring berjalannya waktu, W3C dan diterbitkan sebagai rekomendasi pada Mei 1998.
+
+# Kemampuan baru seperti
+
+Mutlak
+Relatif
+Tetap
+Penentuan Posisi
+Indeks-z
+Konsep Jenis Media
+Teks Dua Arah
+Properti Font Baru seperti Shadows
