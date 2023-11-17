@@ -17,3 +17,5 @@ CSS bisa membuat penyusunan format teks yang ada menjadi lebih rapi.
 Sejak diperkenalkan, perjalanan yang panjang hingga bisa digunakan oleh para developer di seluruh dunia.
 Keunggulan css adalah konsistensi yang lebih besar dalam desain.
 Kelebihan CSS tersebut mampu membuat para developer untuk menggunakan CSS.
+
+# Sejarah CSS (Cascading Style Sheets) dan Perkembangannya
