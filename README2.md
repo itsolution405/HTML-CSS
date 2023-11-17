@@ -15,3 +15,4 @@ Pada saat menggunakan CSS, maka tidak perlu repot-repot menulis font, size atau 
 Bagi Anda para developer dan programmer pasti Anda tidak asing dengan yang namanya CSS atau Cascading Style Sheets. yang berperan bagi dunia pemrograman
 CSS bisa membuat penyusunan format teks yang ada menjadi lebih rapi.
 Sejak diperkenalkan, perjalanan yang panjang hingga bisa digunakan oleh para developer di seluruh dunia.
+Keunggulan css adalah konsistensi yang lebih besar dalam desain
