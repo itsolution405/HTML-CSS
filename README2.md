@@ -8,3 +8,5 @@ Menurut W3OR CSS adalah mekanisme sederhana yang mengatur gaya / style (Contoh: 
 Saat itu, CSS mengalami perkembangan yang cukup pesat.
 CSS menjadi salah satu bahasa pemrograman web yang mengatur komponen dalam suatu web supaya web lebih terstruktur dan lebih seragam.
 Cascading Style Sheets atau CSS ternyata juga bisa berguna untuk meletakkan styles yang berbeda pada lapisan yang berbeda pula. 
+
+Pada saat menggunakan CSS, maka tidak perlu repot-repot menulis font, size atau pun color pada setiap paragrafnya, ataupun pada setiap dokumen sekalipun. Kamu bisa membuat sebuah style sheet, dan bisa menyimpan kode tersebut sekali saja dan juga dapat kembali menggunakannya apabila suatu saat diperlukan.
