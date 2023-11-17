@@ -21,3 +21,4 @@ Kelebihan CSS tersebut mampu membuat para developer untuk menggunakan CSS.
 # Sejarah CSS (Cascading Style Sheets) dan Perkembangannya
 Tahun 1994 Hakon Wium Lie bekerja di CERN yang merupakan sebuah perusahaan, Web mulai digunakan sebagai platform untuk penerbitan elektronik. 
 Setelah mengerjakan presentasi
+Style sheet di browser bukanlah ide yang sama sekali baru.
