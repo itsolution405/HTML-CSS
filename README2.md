@@ -10,3 +10,5 @@ CSS menjadi salah satu bahasa pemrograman web yang mengatur komponen dalam suatu
 Cascading Style Sheets atau CSS ternyata juga bisa berguna untuk meletakkan styles yang berbeda pada lapisan yang berbeda pula. 
 
 Pada saat menggunakan CSS, maka tidak perlu repot-repot menulis font, size atau pun color pada setiap paragrafnya, ataupun pada setiap dokumen sekalipun. Kamu bisa membuat sebuah style sheet, dan bisa menyimpan kode tersebut sekali saja dan juga dapat kembali menggunakannya apabila suatu saat diperlukan.
+
+# Sejarah CSS
