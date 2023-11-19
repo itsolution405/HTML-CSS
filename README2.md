@@ -47,3 +47,7 @@ Ketika seorang programmer melakukan tahap maintenance, maka dapat dengan mudah u
 # CSS Bagian 1
 
 Dalam tahap penetapannya ini ternyata pada waktu itu ditetapkan untuk tujuan mengontrol pembuatan tag-tag baru daripada 2 web browser, yaitu Netscape dan Internet Explorer mengatur tampilan Website
+
+# CSS Bagian 2
+
+CSS Bagian 2 atau CSS 2 adalah hasil perbaikan atau penyempurnaan yang di tambahkan standar kode baru yang di kembangkang dari tahun 1998
