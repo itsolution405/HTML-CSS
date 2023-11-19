@@ -56,3 +56,6 @@ yang lebih modern dari hasil rancangan yang telah dibuat oleh CSS 3 ini.
 Tampilan yang dibuat baik itu berbentuk 2D(2 dimensi) atau yang 3D(3 dimensi).
 Ini terjadi karena dalam CSS 3 terdapat properti yang dinamakan media-query yang digunakan dalam mengatur tampilan responsive.
 
+# Kesimpulan
+
+Dengan mempelajari mengenai sejarah CSS 
