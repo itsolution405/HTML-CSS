@@ -37,3 +37,9 @@ Indeks-z,
 Konsep Jenis Media,
 Teks Dua Arah,
 Properti Font Baru seperti Shadows.
+
+# Kegunaan CSS
+
+CSS digunakan untuk membuat tampilan daripada halaman web yang dirancang seperti menentukan tata letak,
+CSS juga digunakan untuk membuat pemisahan baik itu isi dokumen.
+Ketika seorang programmer melakukan tahap maintenance, maka dapat dengan mudah untuk tahap pengembangan sebuah website.
