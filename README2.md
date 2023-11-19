@@ -45,9 +45,12 @@ CSS juga digunakan untuk membuat pemisahan baik itu isi dokumen.
 Ketika seorang programmer melakukan tahap maintenance, maka dapat dengan mudah untuk tahap pengembangan sebuah website.
 
 # CSS Bagian 1
-
 Dalam tahap penetapannya ini ternyata pada waktu itu ditetapkan untuk tujuan mengontrol pembuatan tag-tag baru daripada 2 web browser, yaitu Netscape dan Internet Explorer mengatur tampilan Website
 
 # CSS Bagian 2
-
 CSS Bagian 2 atau CSS 2 adalah hasil perbaikan atau penyempurnaan yang di tambahkan standar kode baru yang di kembangkang dari tahun 1998
+
+# CSS Bagian 3
+CSS dikembangkan lagi dari CSS Level 2 ke CSS Level 3 yang membuat banyak fitur-fitur baru 
+yang lebih modern dari hasil rancangan yang telah dibuat oleh CSS 3 ini.
+Tampilan yang dibuat baik itu berbentuk 2D(2 dimensi) atau yang 3D(3 dimensi).
