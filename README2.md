@@ -43,3 +43,7 @@ Properti Font Baru seperti Shadows.
 CSS digunakan untuk membuat tampilan daripada halaman web yang dirancang seperti menentukan tata letak,
 CSS juga digunakan untuk membuat pemisahan baik itu isi dokumen.
 Ketika seorang programmer melakukan tahap maintenance, maka dapat dengan mudah untuk tahap pengembangan sebuah website.
+
+# CSS Bagian 1
+
+Dalam tahap penetapannya ini ternyata pada waktu itu ditetapkan untuk tujuan mengontrol pembuatan tag-tag baru daripada 2 web browser, yaitu Netscape dan Internet Explorer mengatur tampilan Website
